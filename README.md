@@ -35,6 +35,7 @@ docker-compose up
 # Ejecutar en modo desarrollo
 npm run start:dev
 
+```
 
 La API estará disponible en `http://localhost:3000/api`
 
